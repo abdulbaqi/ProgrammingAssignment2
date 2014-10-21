@@ -1,7 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## By Abdul-Baqi
+## on 20-Oct-2014
 
-## Write a short comment describing this function
+## This function places the inverse of a matrix into cache
 
 makeCacheMatrix <- function(x = matrix()) {
 
