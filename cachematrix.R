@@ -1,4 +1,4 @@
-## By Abdul-Baqi
+## By Abdul-Baqi M. sharaf
 ## on 20-Oct-2014
 
 ## This function places the inverse of a matrix into cache
