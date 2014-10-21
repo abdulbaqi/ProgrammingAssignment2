@@ -12,7 +12,7 @@ makeCacheMatrix <- function(x = matrix()) {
   
   get<- function() x
   setinv <- function(inv) inverse <<- inv
-  getinv <- funciton() inverse
+  getinv <- function() inverse
   list(set=set, get=get, setinv=setinv, getinv=getinv)
 
 }
